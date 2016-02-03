@@ -1,0 +1,28 @@
+html {width: 1200px; height: 1200px; margin: 0; padding: 0; margin-right: auto; margin-left: auto; background-color: #1874CD}
+
+h2 {font-weight: bolder; text-align: center}
+
+p {font-size: 150%; font-family: Times; text-align: center;}
+
+.endwords {
+	padding-bottom: 1em
+}
+
+.circle{
+	width: 1200px;
+	height: 1200px;
+}
+
+.overlay{
+	position:relative;
+	top: -1050px;
+	right: -106.5px;
+}
+
+.arrow{
+	position: relative;
+	padding: 0;
+	margin: 0;	
+	right: -500px;
+	bottom: -100px;
+}
